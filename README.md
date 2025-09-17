@@ -27,17 +27,6 @@ It enables residents to directly buy groceries from **trusted local shopkeepers*
 
 | Frontend | Backend | Database |
 |----------|---------|----------|
-| React + Vite | Node.js + Express | MongoDB (NoSQL) |
+| React  | Node.js + Express | MongoDB (NoSQL) |
 
-Additional tools:
-- JWT Authentication
-- Redux (optional)
-- Cloudinary for image uploads (optional)
 
-## ⚡ Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/piyahub/Intern_project.git
-cd Intern_project
